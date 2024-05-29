@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # About DMAF
-Digital Craftsman
+Digital Craftsman <br>
 Just a Developer doing the best work he can.
 
 # Tech Stack
