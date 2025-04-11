@@ -4,7 +4,7 @@ About Diego Andino
 Software Engineer
 -----------------
 
-Just doing the best work I can, creating and crafting to help people out in there fields, from small to big projects. Everything is possible if you truly put in the work to do it.
+Everything is possible if you truly put in the work to do it.
 
 ### Skills
 
